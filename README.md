@@ -6,7 +6,10 @@ Write the best definitions you can of the following terms. Do this from memory; 
 
 | Term | Definition |
 | --- | --- |
+| ARIA Role | |
+| ARIA | |
 | Application State | |
+| Automated Test | |
 | Bound State | |
 | Child Component | |
 | Component Hierarchy | |
@@ -17,35 +20,56 @@ Write the best definitions you can of the following terms. Do this from memory; 
 | Context Provider | |
 | Context | |
 | Create React App | |
+| Double-Loop TDD | |
 | Dumb Component | |
 | Dynamic Segment | |
-| React Event Handler | |
+| Equivalence Partition | |
 | Hook | |
 | JSX Element | |
 | JSX | |
+| Jest | |
+| Jest: `.toEqual()` | |
+| Jest: `.tobe()` | |
+| Jest: `describe` | |
+| Jest: `expect` | |
+| Jest: `it` | |
+| Jest: `test` | |
 | Keys | |
 | Library | |
-| Nested Route | |
 | One-Way Data Flow | |
-| Owner/Member Views | |
 | Parent Component | |
-| React Router | |
+| Pure Function | |
+| React Event Handler | |
 | React State | |
+| React Test Library | |
+| React Testing Library: `screen` | |
 | React | |
+| React: Container-Presentation Pattern | |
+| Red, Green, Refactor | |
 | Render | |
 | Rerender | |
-| Route | |
-| Router | |
-| SPA Routing | |
 | SPA | |
 | Side-Effect | |
+| Specification by examle | |
 | State Management | |
 | Stateful Variable | |
-| Sub-Route | |
+| TDD | |
+| Testing Library: Jest DOM | |
+| Testing Library: User Event | |
+| Testing Library: `find` | |
+| Testing Library: `get` | |
+| Testing Library: `query` | |
+| Testing: Assertion | |
+| Testing: Given | |
+| Testing: Mock | |
+| Testing: Spy | |
+| Testing: Then | |
+| Testing: When | |
+| Testing: `msw` | |
 | Top-level Component | |
 | Transpilation | |
 | Two-Way Data Flow | |
-| View | |
+| Unit Test | |
 | Virtual DOM | |
 | Web Application | |
 | Webpack | |

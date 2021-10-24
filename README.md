@@ -1,8 +1,8 @@
-# React Vocabulary
+# React and Testing Vocabulary
 
 Write the best definitions you can of the following terms. Do this from memory; the goal isn't just to have the list, but to have it reflect your current understanding. It's OK for your definitions to be inaccurate or incomplete, you'll be updating them as you learn.
 
-## Core React/SPA Terms
+## Core React/SPA/Testing Terms
 
 | Term | Definition |
 | --- | --- |
